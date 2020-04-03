@@ -1,11 +1,11 @@
 # Seatle Airbnb Data Analysis
 
 # Table of content
-[Installation](#Installation)
-[Motivation](#Motivation)
-[File Description](#File Desciption)
-[Results](#Results)
-[Acknowledgements](#Acknowledgements)
+1. [Installation](#Installation)
+2. [Motivation](#Motivation)
+3. [File Description](#FileDesciption)
+4. [Results](#Results)
+5. [Acknowledgements](#Acknowledgements)
 
 <a name="Installation"></a>
 # Installation
@@ -21,7 +21,7 @@ This project is part of Data Scientist Nanodegree Profram from Udacity. The goal
 2. Analysis of Room availabily with months and their prices ranges to answer what time is best to visit seatle
 3. Neighbourhood price Analysis to see which is the most priciest neighbourhood and which one is best among all to choose
 
-<a name="File Desciption"></a>
+<a name="FileDesciption"></a>
 # File Desciption
 
 Their is one jupytr notebook file that answer the above questions. This file includes all the step done to answer these question.
