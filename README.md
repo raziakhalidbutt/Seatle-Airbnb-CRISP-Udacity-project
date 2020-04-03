@@ -31,9 +31,9 @@ Their is one jupytr notebook file that answer the above questions. This file inc
 
 There are three dataset files of seatle airbnb dataset that is downloaded from kaggle (https://www.kaggle.com/airbnb/seattle)
 
-**listings.csv:** including full descriptions and average review score
-**reviews.csv:** including unique id for each reviewer and detailed comments
-**calendar.csv:** including listing id and the price and availability for that day
+* **listings.csv:** including full descriptions and average review score
+* **reviews.csv:** including unique id for each reviewer and detailed comments
+* **calendar.csv:** including listing id and the price and availability for that day
 
 <a name="Results"></a>
 # Results
