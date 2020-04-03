@@ -40,7 +40,7 @@ There are three dataset files of seatle airbnb dataset that is downloaded from k
 
 Followings are the key findings:
 
-* Entire home/apt have high range on Airbnb and have $155 per night price for this room_type. Using this information people an plan their trip accordingly.
+* Entire home/apt have high range on Airbnb and have $155 per night price for this room_type. Using this information people can plan their trip accordingly.
 * People mostly visit Seatle in summer season from July to September. As there is crowd in these month, the prices go high. By doing this analysis we can see that people prefer going to seatle in these months.
 * Mangolia is most expesive place 
 * On the ohter hand Ballard is in top 3 location wise and in top 4 rank wise and it also have low price as compared to others. so I think the best neighbourhood to visit is Ballard. 
