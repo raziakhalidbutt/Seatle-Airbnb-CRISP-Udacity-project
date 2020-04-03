@@ -24,7 +24,7 @@ This project is part of Data Scientist Nanodegree Profram from Udacity. The goal
 <a name="FileDesciption"></a>
 # File Desciption
 
-There is one jupytr notebook file that answer the above questions. This file includes all the step done to answer these question.
+There is one jupyter notebook file that answer the above questions. This file includes all the step done to answer these question.
 
 **Seatle_airbnb_CRISP_project.ipynb**
 
