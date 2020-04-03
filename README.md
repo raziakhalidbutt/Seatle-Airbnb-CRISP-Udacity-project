@@ -1,17 +1,18 @@
 # Seatle Airbnb Data Analysis
 
 # Table of content
-[Installation] (#Installation)
-2. Motivation
-3. File Description
-4. Results
-4. Acknowledgements
+[Installation](#Installation)
+[Motivation](#Motivation)
+[File Description](#File Desciption)
+[Results](#Results)
+[Acknowledgements](#Acknowledgements)
 
-<a name="Installation"></a>Installation
+<a name="Installation"></a>
 # Installation
 
 You need Anaconda distribution of python 3.* version. No additional libraries are required for this project.
 
+<a name="Motivation"></a>
 # Motivation
 
 This project is part of Data Scientist Nanodegree Profram from Udacity. The goal is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). For this Project I choose the seatle Airbnb dataset to get some useful insights. Following are the 3 questions I looked in this dataset.
@@ -20,6 +21,7 @@ This project is part of Data Scientist Nanodegree Profram from Udacity. The goal
 2. Analysis of Room availabily with months and their prices ranges to answer what time is best to visit seatle
 3. Neighbourhood price Analysis to see which is the most priciest neighbourhood and which one is best among all to choose
 
+<a name="File Desciption"></a>
 # File Desciption
 
 Their is one jupytr notebook file that answer the above questions. This file includes all the step done to answer these question.
@@ -33,6 +35,7 @@ listings.csv: including full descriptions and average review score
 reviews.csv: including unique id for each reviewer and detailed comments
 calendar.csv: including listing id and the price and availability for that day
 
+<a name="Results"></a>
 # Results
 
 Followings are the key findings:
@@ -42,6 +45,7 @@ Followings are the key findings:
 3. Mangolia is most expesive place 
 4. On the ohter hand Ballard is in top 3 location wise and in top 4 rank wise and it also have low price as compared to others. so I think the best neighbourhood to visit is Ballard. 
 
+<a name="Acknowledgements"></a>
 # Acknowledgements
 
 This dataset is part of Airbnb Inside, and the original source can be found here.
