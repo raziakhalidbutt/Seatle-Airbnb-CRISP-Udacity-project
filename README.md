@@ -17,9 +17,9 @@ You need Anaconda distribution of python 3.* version. No additional libraries ar
 
 This project is part of Data Scientist Nanodegree Profram from Udacity. The goal is to implement the CRISP-DM (Cross-Industry Standard Process for DATA Mining). For this Project I choose the seattle Airbnb dataset to get some useful insights. Following are the 3 questions I looked in this dataset.
 
-1. Anaylsis of room types, their percentage & price range on Airbnb
-2. Analysis of Room availabily with months and their prices ranges to answer what time is best to visit seattle
-3. Neighbourhood price Analysis to see which is the most priciest neighbourhood and which one is best among all to choose
+1. Analysis of room types, their percentages & price ranges.
+2. Analysis of month wise room availably and corresponding prices ranges to answer what time is best to visit Seattle.
+3.Neighborhood price Analysis to see which is the priciest neighborhood and which one is the best to choose.
 
 <a name="FileDesciption"></a>
 # File Desciption
@@ -40,10 +40,12 @@ There are three dataset files of seattle airbnb dataset that is downloaded from 
 
 Followings are the key findings:
 
-* Entire home/apt have high range on Airbnb and have $155 per night price for this room_type. Using this information people can plan their trip accordingly.
-* People mostly visit Seattle in summer season from July to September. As there is crowd in these month, the prices go high. By doing this analysis we can see that people prefer going to seattle in these months.
-* Mangolia is most expesive place 
-* On the ohter hand Ballard is in top 3 location wise and in top 4 rank wise and it also have low price as compared to others. so I think the best neighbourhood to visit is Ballard. 
+* Entire home/apt category is the priciest on Airbnb with average price of $155 per night. However, on the other hand they account for 67% of all the available properties on AirBnb. By looking into this information people with less family member or solo travelers with low budget should plan their bookings much advance. 
+* Most reviews are from the month of July, August and September which means people mostly visit Seattle in summer. It is interesting that although prices are higher in these months but still people prefer to visit Seattle during summer which is why higher demand increases prices. 
+* Mangolia is the most expesive neighbourhood
+* Ballard is among the top 3 in terms of Location and among the top 4 in terms of Ratings; surprisingly it one of the three least pricy neighborhoods. So, we can confidently conclude that the best neighborhood for stay is Ballard. 
+
+You can read further on it in my [blog]() 
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
