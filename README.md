@@ -1,13 +1,13 @@
 # Seatle Airbnb Data Analysis
 
 # Table of content
-1. require "Installation"
+1. [Installation] (#Installation)
 2. Motivation
 3. File Description
 4. Results
 4. Acknowledgements
 
-Installation
+# Installation
 
 You need Anaconda distribution of python 3.* version. No additional libraries are required for this project.
 
