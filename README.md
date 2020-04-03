@@ -45,7 +45,7 @@ Followings are the key findings:
 * Mangolia is the most expesive neighbourhood
 * Ballard is among the top 3 in terms of Location and among the top 4 in terms of Ratings; surprisingly it one of the three least pricy neighborhoods. So, we can confidently conclude that the best neighborhood for stay is Ballard. 
 
-You can find more in my [blog]() 
+You can find more in my [blog](https://medium.com/@raziakhalidbutt/a-look-into-seattle-airbnb-data-304263683050) 
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
