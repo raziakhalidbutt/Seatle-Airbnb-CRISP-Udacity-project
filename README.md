@@ -26,26 +26,26 @@ This project is part of Data Scientist Nanodegree Profram from Udacity. The goal
 
 Their is one jupytr notebook file that answer the above questions. This file includes all the step done to answer these question.
 
-Seatle_airbnb_CRISP_project.ipynb
+**Seatle_airbnb_CRISP_project.ipynb**
 
 
 There are three dataset files of seatle airbnb dataset that is downloaded from kaggle (https://www.kaggle.com/airbnb/seattle)
 
-listings.csv: including full descriptions and average review score
-reviews.csv: including unique id for each reviewer and detailed comments
-calendar.csv: including listing id and the price and availability for that day
+**listings.csv:** including full descriptions and average review score
+**reviews.csv:** including unique id for each reviewer and detailed comments
+**calendar.csv:** including listing id and the price and availability for that day
 
 <a name="Results"></a>
 # Results
 
 Followings are the key findings:
 
-1. Entire home/apt have high range on Airbnb and have $155 per night price for this room_type. Using this information people can plan their trip accordingly.
-2. People mostly visit Seatle in summer season from July to September. As there is crowd in these month, the prices go high. By doing this analysis we can see that people prefer going to seatle in these months.
-3. Mangolia is most expesive place 
-4. On the ohter hand Ballard is in top 3 location wise and in top 4 rank wise and it also have low price as compared to others. so I think the best neighbourhood to visit is Ballard. 
+**1.** Entire home/apt have high range on Airbnb and have $155 per night price for this room_type. Using this information people an plan their trip accordingly.
+**2.** People mostly visit Seatle in summer season from July to September. As there is crowd in these month, the prices go high. By doing this analysis we can see that people prefer going to seatle in these months.
+**3.** Mangolia is most expesive place 
+**4.** On the ohter hand Ballard is in top 3 location wise and in top 4 rank wise and it also have low price as compared to others. so I think the best neighbourhood to visit is Ballard. 
 
 <a name="Acknowledgements"></a>
 # Acknowledgements
 
-This dataset is part of Airbnb Inside, and the original source can be found here.
+This dataset is part of Airbnb Inside, and the original source can be found [here](https://www.kaggle.com/airbnb/seattle).
