@@ -43,7 +43,7 @@ Followings are the key findings:
 * Entire home/apt category is the priciest on Airbnb with average price of $155 per night. However, on the other hand they account for 67% of all the available properties on AirBnb. By looking into this information people with less family member or solo travelers with low budget should plan their bookings much advance. 
 * Most reviews are from the month of July, August and September which means people mostly visit Seattle in summer. It is interesting that although prices are higher in these months but still people prefer to visit Seattle during summer which is why higher demand increases prices. 
 * Mangolia is the most expesive neighbourhood
-* Ballard is among the top 3 in terms of Location and among the top 4 in terms of Ratings; surprisingly it one of the three least pricy neighborhoods. So, we can confidently conclude that the best neighborhood for stay is Ballard. 
+* Ballard is among the top 3 in terms of Location and among the top 4 in terms of Ratings; surprisingly it one of the three least pricy neighborhoods.  
 
 You can find more in my [blog](https://medium.com/@raziakhalidbutt/a-look-into-seattle-airbnb-data-304263683050) 
 
