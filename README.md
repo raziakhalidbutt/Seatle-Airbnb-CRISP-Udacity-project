@@ -4,7 +4,7 @@
 # Table of content
 1. [Installation](#Installation)
 2. [Motivation](#Motivation)
-3. [File Description] (#FileDesciption)
+3. [File Description] (#FileDescription)
 4. [Results](#Results)
 5. [Acknowledgements](#Acknowledgements)
 
@@ -25,7 +25,7 @@ This project is part of Data Scientist Nanodegree Program from Udacity. The goal
 <a name="FileDesciption"></a>
 # File Description
 
-There is one jupyter notebook file that answer the above questions. This file includes all the step done to answer these question.
+There is one jupyter notebook file that answers the above questions. This file includes all the step done to answer these question.
 
 **Seattle_airbnb_CRISP_project.ipynb**
 
