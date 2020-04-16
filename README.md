@@ -4,7 +4,7 @@
 # Table of content
 1. [Installation](#Installation)
 2. [Motivation](#Motivation)
-3. [File Description] (#FileDescription)
+3. [File Description](#FileDescription)
 4. [Results](#Results)
 5. [Acknowledgements](#Acknowledgements)
 
@@ -22,7 +22,7 @@ This project is part of Data Scientist Nanodegree Program from Udacity. The goal
 2. Analysis of month wise room availably and corresponding prices ranges to answer what time is best to visit Seattle.
 3.Neighborhood price Analysis to see which is the priciest neighborhood and which one is the best to choose.
 
-<a name="FileDesciption"></a>
+<a name="FileDescription"></a>
 # File Description
 
 There is one jupyter notebook file that answers the above questions. This file includes all the step done to answer these question.
