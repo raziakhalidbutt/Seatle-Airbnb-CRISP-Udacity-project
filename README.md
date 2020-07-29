@@ -20,7 +20,7 @@ This project is part of Data Scientist Nanodegree Program from Udacity. The goal
 
 1. Analysis of room types, their percentages & price ranges.
 2. Analysis of month wise room availably and corresponding prices ranges to answer what time is best to visit Seattle.
-3.Neighborhood price Analysis to see which is the priciest neighborhood and which one is the best to choose.
+3. Neighborhood price Analysis to see which is the priciest neighborhood and which one is the best to choose.
 
 <a name="FileDescription"></a>
 # File Description
